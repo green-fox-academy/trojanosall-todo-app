@@ -15,10 +15,9 @@ namespace ToDoApp
             var TaskList = new List();
 
             TaskList.PrintTaskList();
+            TaskList.AddNumberToTaskList();                     
 
             Console.ReadKey();
-
-
 
         }
 
