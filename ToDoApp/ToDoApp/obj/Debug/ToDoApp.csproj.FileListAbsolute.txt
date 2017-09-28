@@ -4,3 +4,4 @@ C:\Users\troja\Private\Learning\greenfox\trojanosall_ToDo_App\trojanosall-todo-a
 C:\Users\troja\Private\Learning\greenfox\trojanosall_ToDo_App\trojanosall-todo-app\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
 C:\Users\troja\Private\Learning\greenfox\trojanosall_ToDo_App\trojanosall-todo-app\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
 C:\Users\troja\Private\Learning\greenfox\trojanosall_ToDo_App\trojanosall-todo-app\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+C:\Users\troja\Private\Learning\greenfox\trojanosall_ToDo_App\trojanosall-todo-app\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojResolveAssemblyReference.cache
