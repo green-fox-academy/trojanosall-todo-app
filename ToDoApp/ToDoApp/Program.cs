@@ -11,7 +11,14 @@ namespace ToDoApp
         static void Main(string[] args)
         {
             Welcome();
+
+            var TaskList = new List();
+
+            TaskList.PrintTaskList();
+
             Console.ReadKey();
+
+
 
         }
 

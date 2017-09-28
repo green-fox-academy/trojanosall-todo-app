@@ -18,8 +18,8 @@ namespace ToDoApp
             {
                 // Reads the content from `ListTask.txt` in the `Debug` folder line by line to a string List
                 List<string> TaskList = new List<string> (File.ReadAllLines(path));
-                // Prints the first line of the file
-                Console.WriteLine(TaskList);
+                // Prints the lines of the file
+                TaskList.ForEach(i => Console.WriteLine("{0}\t", i));
             }
                 catch (Exception)
             {
